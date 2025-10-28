@@ -8,7 +8,7 @@ todas las dependecias.
 
 ## 🚀 1. Crear el entorno virtual
 
-Primero abre una terminal en WSL, navega hasta el directiro raíz `practica-bbdd` y crea un entorno virtual llamado `cassandra-venv`:
+Primero abre una terminal en WSL, navega hasta el directiro raíz `Practica-Terremotos-Cassandra-BigData` y crea un entorno virtual llamado `cassandra-venv`:
 
 ```bash
 python3 -m venv cassandra-venv
