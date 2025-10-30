@@ -53,7 +53,7 @@ docker compose up -d
 Para asegurarte de que VS Code utiliza el entorno virtual `cassandra-venv`:
 1. Presiona `Ctrl + Shift + P` en Windows o `Cmd + Shift + P` en macOS.
 2. Escribe y selecciona `Python: Select Interpreter`.
-3. Elige el intérprete que corresponde a `cassandra-venv`.
+3. Elige el entorno virtual que corresponde a `cassandra-venv`.
 
 
 ## 🧱 Estructura recomendada del proyecto
